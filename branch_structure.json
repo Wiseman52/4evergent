@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-16-api-post-agents-accepts-any-string-as",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-16-api-post-agents-accepts-any-string-as": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-16-api-post-agents-accepts-any-string-as",
+    "origin"
+  ]
+}
